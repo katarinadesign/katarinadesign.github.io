@@ -1,0 +1,428 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Basicweb.com" resolutions="1x" timestamp="1537274607833">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4072968821" ref="contact:portfolio:index:about"/>
+    <file name="nomq_preview_master_a-master.css" crc="231713804" ref="contact:portfolio:index:about"/>
+    <file name="contact.css" crc="72604681" ref="contact"/>
+    <file name="nomq_contact.css" crc="3802196534" ref="contact"/>
+    <file name="portfolio.css" crc="315490351" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="165230127" ref="portfolio"/>
+    <file name="index.css" crc="3927893765" ref="index"/>
+    <file name="nomq_index.css" crc="426387091" ref="index"/>
+    <file name="about.css" crc="89560868" ref="about"/>
+    <file name="nomq_about.css" crc="290626195" ref="about"/>
+  </folder>
+  <folder name="assets">
+    <file name="katarina-slavkovic-resume.docx" crc="3932623085" seo="true" mt="1537263380000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:portfolio:contact"/>
+    <file name="museutils.js" crc="340535759" ref="index:about:portfolio:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:portfolio:contact"/>
+    <file name="museconfig.js" crc="310584261" ref="index:about:portfolio:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:about:portfolio:contact"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:about:portfolio:contact"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:about:portfolio:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:portfolio:contact"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:about:portfolio:contact"/>
+    <file name="require.js" crc="7928878" ref="index:about:portfolio:contact"/>
+    <file name="webpro.js" crc="4059564322" ref="portfolio:contact"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="portfolio"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="portfolio"/>
+    <file name="touchswipe.js" crc="4075097462" ref="portfolio"/>
+    <file name="form_check.php" crc="4020933626" ref="contact"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact"/>
+    <file name="form_process.php" crc="37464564" ref="contact"/>
+    <file name="form-u8811.php" crc="3878398356" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="999782-pastel-colors-background-2560x1600-for-ipad-pro-page-fr.png" crc="324405296" ref="index"/>
+    <file name="katarina-tita-type.svg" crc="3847559039" seo="true" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="katarina tita type_poster_.png" crc="316625787" ref="index"/>
+    <file name="behance-logo.svg" crc="315044968" seo="true" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="behance-logo_poster_.png" crc="4191349062" ref="index"/>
+    <file name="instagram-(1).svg" crc="4169802787" seo="true" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="instagram (1)_poster_.png" crc="3822154016" ref="index"/>
+    <file name="pencil-of-gross-size-outline.svg" crc="324964077" seo="true" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pencil-of-gross-size-outline_poster_.png" crc="311764743" ref="index"/>
+    <file name="999782-pastel-colors-background-2560x1600-for-ipad-pro.jpg" crc="3962202806" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="999782-pastel-colors-background-2560x1600-for-ipad-pro1230x769.jpg" crc="4268096267" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="999782-pastel-colors-background-2560x1600-for-ipad-pro956x598.jpg" crc="4162071420" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="999782-pastel-colors-background-2560x1600-for-ipad-pro732x458.jpg" crc="4004863258" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about:portfolio:contact"/>
+    <file name="u11210-5.png" crc="455161815" ref="about"/>
+    <file name="img_1283.jpg" crc="3774721232" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u11210-52.png" crc="4044035207" ref="about"/>
+    <file name="999782-pastel-colors-background-2560x1600-for-ipad-pro1464x915.jpg" crc="225981661" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u11210-53.png" crc="399101606" ref="about"/>
+    <file name="u11210-54.png" crc="435749135" ref="about"/>
+    <file name="999782-pastel-colors-background-2560x1600-for-ipad-pro936x585.jpg" crc="4174539516" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u11210-55.png" crc="233085979" ref="about"/>
+    <file name="e.jpg" crc="3765912396" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="f.jpg" crc="535316127" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="g.jpg" crc="200736410" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="h.jpg" crc="3999290007" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="i.jpg" crc="4357191" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="j.jpg" crc="3921641463" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="k.jpg" crc="4284128009" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dog sdf 1.jpg" crc="14009291" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dog gdf.jpg" crc="4070805896" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dog sdf 2.jpg" crc="4176244866" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="e-crop-u891.jpg" crc="4235885685" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="k-crop-u1011.jpg" crc="375804851" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="f-crop-u911.jpg" crc="224921333" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dog sdf 1-crop-u755.jpg" crc="4286149944" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="g-crop-u931.jpg" crc="500356636" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dog gdf-crop-u668.jpg" crc="3814395919" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="h-crop-u951.jpg" crc="536591932" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dog sdf 2-crop-u775.jpg" crc="4134583135" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="i-crop-u971.jpg" crc="3987089934" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="j-crop-u991.jpg" crc="4211512179" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="portfolio"/>
+    <file name="e338x226.jpg" crc="4137796026" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="f169x254.jpg" crc="123119478" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="g338x226.jpg" crc="224515975" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="h169x254.jpg" crc="442531358" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="i169x254.jpg" crc="234837881" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="j338x226.jpg" crc="4087248588" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="k338x226.jpg" crc="4274959305" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dog sdf 1338x226.jpg" crc="233399729" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dog gdf169x254.jpg" crc="463882315" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dog sdf 2169x254.jpg" crc="348829899" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="e-crop-u8912.jpg" crc="226332725" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="k-crop-u10112.jpg" crc="451230889" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="f-crop-u9112.jpg" crc="348488227" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dog sdf 1-crop-u7552.jpg" crc="4074476125" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="g-crop-u9312.jpg" crc="4249408133" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dog gdf-crop-u6682.jpg" crc="304874984" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="h-crop-u9512.jpg" crc="3763322278" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dog sdf 2-crop-u7752.jpg" crc="338323920" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="i-crop-u9712.jpg" crc="494490520" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="j-crop-u9912.jpg" crc="307355038" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="999782-pastel-colors-background-2560x1600-for-ipad-pro1352x845.jpg" crc="39486200" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="e308x205.jpg" crc="3769077468" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="f154x231.jpg" crc="176986750" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="g308x205.jpg" crc="4278555280" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="h154x231.jpg" crc="232137679" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="i154x231.jpg" crc="3776932909" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="j308x205.jpg" crc="3821246484" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="k308x205.jpg" crc="275504814" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dog sdf 1308x205.jpg" crc="3899219524" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dog gdf154x231.jpg" crc="248809240" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dog sdf 2154x231.jpg" crc="352302068" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="e-crop-u8913.jpg" crc="8554269" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="k-crop-u10113.jpg" crc="4119786395" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="f-crop-u9113.jpg" crc="4078757273" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dog sdf 1-crop-u7553.jpg" crc="453464474" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="g-crop-u9313.jpg" crc="3830103169" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dog gdf-crop-u6683.jpg" crc="4105793274" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="h-crop-u9513.jpg" crc="168258937" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dog sdf 2-crop-u7753.jpg" crc="506494361" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="i-crop-u9713.jpg" crc="3846462938" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="j-crop-u9913.jpg" crc="4180534696" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="e183x122.jpg" crc="4201787646" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="f92x138.jpg" crc="4279310036" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="g183x122.jpg" crc="473242133" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="h92x138.jpg" crc="4205064868" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="i92x138.jpg" crc="3821788467" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="j183x122.jpg" crc="3919946232" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="k183x122.jpg" crc="3946226349" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dog sdf 1183x122.jpg" crc="517009703" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dog gdf92x138.jpg" crc="3124947" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dog sdf 292x138.jpg" crc="10118601" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="e-crop-u8914.jpg" crc="373711054" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="k-crop-u10114.jpg" crc="513874477" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="f-crop-u9114.jpg" crc="4127921196" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dog sdf 1-crop-u7554.jpg" crc="310732820" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="g-crop-u9314.jpg" crc="430726804" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dog gdf-crop-u6684.jpg" crc="3847402512" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="h-crop-u9514.jpg" crc="4257607995" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dog sdf 2-crop-u7754.jpg" crc="3938675936" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="i-crop-u9714.jpg" crc="179585923" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="j-crop-u9914.jpg" crc="4111418791" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="instagram.png" crc="4047733986" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="untitled-1.svg" crc="511243076" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="untitled-1_poster_.png" crc="4293222584" ref="contact"/>
+    <file name="999782-pastel-colors-background-2560x1600-for-ipad-pro1608x1005.jpg" crc="484801200" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="999782-pastel-colors-background-2560x1600-for-ipad-pro1068x668.jpg" crc="3803159008" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="175134363" seo="true" mt="1537274401794" redirect="true"/>
+  <file name="about.html" crc="4124565917" seo="true" mt="1537274401794" redirect="true"/>
+  <file name="portfolio.html" crc="197220021" seo="true" mt="1537274401794" redirect="true"/>
+  <file name="contact.html" crc="500964959" seo="true" mt="1537274401794" redirect="true"/>
+</manifest>
